@@ -32,8 +32,9 @@
     <li><strong>Install Dependencies:</strong></li>
     <pre><code>cd RAG-LLM
 pip install -r requirements.txt</code></pre>
-    <p>Save the documents that need to be used to the <code>SOURCE_DOCUMENTS</code> folder.</p>
-    <li><strong>Run the Model:</strong></li>
+    <li><p>Save the documents that need to be used to the <code>SOURCE_DOCUMENTS</code> folder.</p></li>
+    <li><strong>Run the Ingestor:</strong></li>
+    <pre><code>python ingest.py</code></pre>
     <li><strong>Run the Model:</strong></li>
     <pre><code>streamlit run app.py</code></pre>
   </ol>
