@@ -1,0 +1,20 @@
+# Natural Language Processing
+langchain==0.0.267
+chromadb==0.4.6
+pdfminer.six==20221105
+InstructorEmbedding
+sentence-transformers
+huggingface_hub
+transformers
+protobuf==3.20.2
+auto-gptq==0.2.2
+docx2txt
+llama-cpp-python==0.1.83
+
+# Utilities
+urllib3==1.26.6
+accelerate
+bitsandbytes
+click
+requests
+streamlit
