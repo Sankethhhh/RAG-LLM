@@ -37,6 +37,7 @@ pip install -r requirements.txt</code></pre>
     <pre><code>python ingest.py</code></pre>
     <li><strong>Run the Model:</strong></li>
     <pre><code>streamlit run app.py</code></pre>
+    <li>Access the application in your web browser at <code>http://localhost:8501</code>)</li>
   </ol>
 
   <h2>Usage</h2>
